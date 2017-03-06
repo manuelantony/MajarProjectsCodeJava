@@ -1,0 +1,9 @@
+android.permission.READ_SMS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.READ_SYNC_SETTINGS
+android.permission.READ_CALENDAR
+android.permission.READ_PROFILE
+android.permission.SYSTEM_ALERT_WINDOW
+com.android.alarm.permission.SET_ALARM
+android.permission.RECEIVE_SMS
+android.permission.VIBRATE
